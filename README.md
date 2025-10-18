@@ -33,7 +33,7 @@ Developed an **AI-powered tool** that detects faces in images and predicts celeb
 **📸 Demo GIF:**  
 <img src="https://raw.githubusercontent.com/Kartik-jindal/Celebrity-Recognition/main/gif/demo.gif?raw=true" width="600" alt="Celebrity Recognition Demo">  
 
-**🔗 [View Code](https://github.com/Kartik-jindal/Celebrity-Recognition)**  
+**🔗 [Link](https://github.com/Kartik-jindal/Celebrity-recognition-system)**  
 
 ---
 
@@ -54,7 +54,7 @@ Created a **backend platform** that analyzes financial data and suggests persona
 - Optimized database queries → **40% faster response time**.  
 - Containerized with Docker → **Seamless scalability**.  
 
-**🔗 [View Code](https://github.com/Kartik-jindal/Investment-System)**  
+**🔗 [Link](https://github.com/Kartik-jindal/Investment-Advisory-and-Portfolio-Management-System)**  
 
 ---
 
@@ -73,7 +73,7 @@ In 120 days, I:
 2. **E-Commerce Platform** (React + Node.js)  
 3. **Portfolio Tracker** (Python + PostgreSQL)  
 
-**🔗 [View Repository](https://github.com/Kartik-jindal/120-Day-Launchpad)**  
+**🔗 [Link](https://github.com/Kartik-jindal/120-day-launchpad)**  
 
 ---
 
