@@ -31,7 +31,7 @@ I am actively executing this plan with daily commits and progress. So far, I hav
 2.  **Data Structures & Algorithms:** Advanced Problem Solving
 3.  **DevOps & SDE Toolkit:** Docker, Git, CI/CD, Linux
 
-**🔗 [Follow My Daily Progress Here](https://github.com/Kartik-jindal/120_day_launchpad)**
+**🔗 [Follow My Daily Progress Here](https://github.com/Kartik-jindal/120-day-launchpad)**
 
 ---
 
