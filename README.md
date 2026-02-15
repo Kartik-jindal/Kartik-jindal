@@ -24,16 +24,6 @@ Application Security · System Design · Performance
 
 ## ⭐ Selected Work
 
-### 🛡️ Secure Dashboard (Next.js + FastAPI)
-Production-style full stack system with authentication, API abstraction, and scalable structure.
-
-→ Designed with separation of concerns  
-→ Built like a real startup codebase  
-
-🔗 https://github.com/Kartik-jindal/secure-dashboard-nextjs
-
----
-
 ### 🤖 Celebrity Recognition System
 Computer vision system with real-time predictions via Flask interface.
 
