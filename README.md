@@ -7,7 +7,7 @@
 ---
 
 ## **💡 Who Am I?**  
-I’m **Kartik Jindal**, a developer passionate about building **smart, automated solutions** using **Python, Data Science, and DevOps tools**.  
+I’m **Kartik Jindal**, a developer passionate about building **smart, automated solutions** using **Python, Data Science, NextJS, and DevOps tools**.  
 I thrive on solving real-world problems with code—whether it’s identifying celebrities in images or building robust backend systems!  
 
 **🔍 Explore My Work Below!**  
