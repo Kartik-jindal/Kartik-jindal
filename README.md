@@ -1,95 +1,86 @@
-# 👋 **Kartik Jindal**  
-**Dev • Data Science & AI Innovator • Automation Enthusiast**  
+# 👋 Hey, I'm Kartik
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartik-jindal&show=prs=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kartik-jindal&layout=compact&theme=radical)  
+🚀 **Full Stack Engineer** building secure, scalable, production-ready software.
 
----
+I specialize in turning complex problems into clean architectures, reliable APIs, and fast user experiences.
 
-## **💡 Who Am I?**  
-I’m **Kartik Jindal**, a developer passionate about building **smart, automated solutions** using **Python, Data Science, NextJS, and DevOps tools**.  
-I thrive on solving real-world problems with code—whether it’s identifying celebrities in images or building robust backend systems!  
+⚙️ **Core Stack**  
+Next.js · React · Tailwind · Python · FastAPI · PostgreSQL
 
-**🔍 Explore My Work Below!**  
+🔐 **Engineering Interests**  
+Application Security · System Design · Performance
 
----
-
-## **🚀 Featured Projects**  
-
-### **1. The Resilient SDE & Data Science Launchpad (Current Mission)**
-**📌 Challenge:**
-*A 120-day, self-directed intensive to master production-grade software engineering and data science principles.*
-
-**💡 My Current Progress:**
-I am actively executing this plan with daily commits and progress. So far, I have:
-✅ Mastered advanced **SQL**, including Joins, Aggregations, and Window Functions.
-✅ Implemented core **Data Structures & Algorithms** (Hashing, Pointers, Sliding Window, Trees) in Python.
-✅ Established a professional **Git & Docker** workflow, including branching and merge conflict resolution.
-
-**🔧 Key Skills Being Mastered:**
-1.  **Backend Development:** Python, FastAPI, PostgreSQL
-2.  **Data Structures & Algorithms:** Advanced Problem Solving
-3.  **DevOps & SDE Toolkit:** Docker, Git, CI/CD, Linux
-
-**🔗 [Follow My Daily Progress Here](https://github.com/Kartik-jindal/120-day-launchpad)**
+🌍 Open to remote roles worldwide
 
 ---
 
-### **2. Celebrity Recognition System**  
-**📌 Problem:**  
-*Can we build a system to identify celebrities in real-time from images?*  
-
-**💡 My Solution:**  
-Developed an **AI-powered tool** that detects faces in images and predicts celebrity names with **95% accuracy**!  
-
-**✨ Unique Features:**  
-- **Real-Time Detection:** Uses pre-trained models to recognize faces instantly.  
-- **Web Interface:** Deployed with Flask—upload images or use your webcam!  
-- **Accuracy:** Tested with 1000+ images; achieved **95% precision**.  
-
-**📸 Demo GIF:**  
-<img src="https://raw.githubusercontent.com/Kartik-jindal/Celebrity-Recognition/main/gif/demo.gif?raw=true" width="600" alt="Celebrity Recognition Demo">  
-
-**🔗 [Link to Repository](https://github.com/Kartik-jindal/Celebrity-recognition-system)**  
+## 💼 Engineering Snapshot
+✔ Build complete products from UI → API → database  
+✔ Write maintainable, modular backend systems  
+✔ Improve reliability, performance & deployment workflows  
+✔ Automate repetitive work using Python  
 
 ---
 
-### **3. Investment Advisory System**  
-**📌 Problem:**  
-*How to help users make smarter investment decisions based on their risk profile?*  
+## ⭐ Selected Work
 
-**💡 My Solution:**  
-Created a **backend platform** that analyzes financial data and suggests personalized portfolios.  
+### 🛡️ Secure Dashboard (Next.js + FastAPI)
+Production-style full stack system with authentication, API abstraction, and scalable structure.
 
-**✨ Why It Stands Out?**  
-- **Automated CI/CD:** Zero-downtime deployments using GitHub Actions.  
-- **Secure Data Handling:** Environment variables for sensitive data.  
-- **Smart Algorithms:** Recommends stocks based on user risk tolerance.  
+→ Designed with separation of concerns  
+→ Built like a real startup codebase  
 
-**📊 Results:**  
-- Optimized database queries → **40% faster response time**.  
-- Containerized with Docker → **Seamless scalability**.  
-
-**🔗 [Link to Repository](https://github.com/Kartik-jindal/Investment-Advisory-and-Portfolio-Management-System)**  
+🔗 https://github.com/Kartik-jindal/secure-dashboard-nextjs
 
 ---
 
-## **🛠️ Tech Stack & Skills**  
+### 🤖 Celebrity Recognition System
+Computer vision system with real-time predictions via Flask interface.
 
-- **Languages:** Python, SQL, JavaScript, C++
-- **Backend:** FastAPI, Flask, Node.js
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps & Tools:** Docker, Git, GitHub Actions, Linux
-- **AI/ML & Data:** Scikit-learn, OpenCV, Pandas, NumPy
-- **Frontend:** React, HTML5, CSS3
+✨ 95% accuracy  
+🧠 OpenCV + ML pipeline  
+🌐 Usable via browser upload/webcam  
 
----
+<img src="https://raw.githubusercontent.com/Kartik-jindal/Celebrity-Recognition/main/gif/demo.gif?raw=true" width="600" />
 
-## **📬 Let’s Connect!**  
-**I’m open to collaborations and challenging internship opportunities.**  
-📧 **Email:** `kartikjindalcollege@gmail.com`  
-🔗 **LinkedIn:** [@kartik-jindal19](https://www.linkedin.com/in/kartik-jindal19/)  
+🔗 https://github.com/Kartik-jindal/Celebrity-recognition-system
 
 ---
 
-> *“Code is poetry—write it with purpose!”*
+### 📈 Investment Advisory & Portfolio Engine
+Backend-driven recommendation system for risk-aware investing.
+
+⚡ Reduced query latency by 40%  
+🐳 Containerized with Docker  
+🔁 Automated CI/CD workflows  
+
+🔗 https://github.com/Kartik-jindal/Investment-Advisory-and-Portfolio-Management-System
+
+---
+
+## 🧠 Daily Discipline
+Currently executing a structured engineering roadmap focused on:
+
+• advanced data structures  
+• production backend practices  
+• database mastery  
+• devops workflows  
+
+Track it live →  
+https://github.com/Kartik-jindal/120-day-launchpad
+
+---
+
+## 📊 Activity
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-jindal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kartik-jindal&layout=compact&theme=radical)
+
+---
+
+## 📬 Reach Me
+📧 kartikjindalcollege@gmail.com  
+🔗 https://www.linkedin.com/in/kartik-jindal19/
+
+---
+
+> I like shipping software that works — not demos, not theory.
